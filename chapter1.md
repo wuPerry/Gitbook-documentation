@@ -19,7 +19,7 @@
 
 summary.md是book的目录，默认情况下，点击“+Add an article”时会自动添加。
 
-嵌套的列表可以创建下级目录
+嵌套的列表可以创建下级目录。
 
 ##### Simple example {#simple-example}
 
