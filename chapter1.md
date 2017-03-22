@@ -60,7 +60,7 @@ summary.md是book的目录，默认情况下，点击“+Add an article”时会
 
 ###### 3. Anchors
 
-一般目录会根据md文件来生成，但是导出pdf时会出现“下段同页”无法实现，如果
+一般目录会根据md文件来生成，但是导出pdf时会出现“下段同页”无法实现，如果要避免则需要在一个md文件编辑，且定义章节的锚点，然后手动编辑summary.md文件，使用Anchor添加到节。如在文章中编辑&lt;h2 id="writing"&gt;&lt;/h2&gt;，在summary中编辑README.md\#writing。
 
 ```
 # Summary
