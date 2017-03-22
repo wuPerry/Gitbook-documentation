@@ -60,6 +60,8 @@ summary.md是book的目录，默认情况下，点击“+Add an article”时会
 
 ###### 3. Anchors
 
+一般目录会根据md文件来生成，但是导出pdf时会出现“下段同页”无法实现，如果
+
 ```
 # Summary
 
