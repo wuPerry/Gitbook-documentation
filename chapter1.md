@@ -58,7 +58,7 @@ summary.md是book的目录，默认情况下，点击“+Add an article”时会
 * [Last part without title](part3/title.md)
 ```
 
-######  Anchors
+###### Anchors
 
 一般目录会根据md文件来生成，但是导出pdf时会出现“下段同页”无法实现，如果要避免则需要在一个md文件编辑，且定义章节的锚点，然后手动编辑summary.md文件，使用Anchor添加到节。如在文章中编辑&lt;h2 id="writing"&gt;&lt;/h2&gt;，在summary中编辑README.md\#writing。
 
@@ -77,7 +77,5 @@ summary.md是book的目录，默认情况下，点击“+Add an article”时会
 
 ###### 2.book.json
 
-
-
-
+除了修改书籍的主题外，还可以通过配置`book.json`文件来修改 gitbook 在编译书籍时的行为，例如：修改书籍的名称，显示效果等等。配置的信息请参考[https://toolchain.gitbook.com/config.html](https://toolchain.gitbook.com/config.html)
 
