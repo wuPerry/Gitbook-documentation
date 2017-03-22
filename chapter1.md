@@ -24,20 +24,12 @@ summary.md是book的目录，默认情况下，点击“+Add an article”时会
 ```
 # Summary
 * 
-[
-Part I
-](
-part1/README.md
-)
+[Part I](part1/README.md)
 
     * [Writing is nice](part1/writing.md)
     * [GitBook is nice](part1/gitbook.md)
 * 
-[
-Part II
-](
-part2/README.md
-)
+[Part II](part2/README.md)
 
     * [We love feedback](part2/feedback_please.md)
     * [Better tools for authors](part2/better_tools.md)
