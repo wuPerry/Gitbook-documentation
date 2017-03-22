@@ -37,5 +37,26 @@ summary.md是book的目录，默认情况下，点击“+Add an article”时会
     * [Better tools for authors](part2/better_tools.md)
 ```
 
+###### 2. Parts
+
+添加 
+
+```
+# Summary
+
+### Part I
+
+* [Writing is nice](part1/writing.md)
+* [GitBook is nice](part1/gitbook.md)
+
+### Part II
+
+* [We love feedback](part2/feedback_please.md)
+* [Better tools for authors](part2/better_tools.md)
+
+----
+* [Last part without title](part3/title.md)
+```
+
 
 
