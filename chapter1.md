@@ -8,14 +8,12 @@
 
 ![](/assets/import2.png)
 
-
-
 | **File** | **Description** |
 | :--- | :--- |
 | `book.json` | Stores[configuration](https://toolchain.gitbook.com/config.html)data \(**optional**\) |
 | `README.md` | Preface / Introduction for your book \(**required**\) |
 | `SUMMARY.md` | Table of Contents \(See[Pages](https://toolchain.gitbook.com/pages.html)\) \(**optional**\) |
-| `GLOSSARY.md` | Lexicon / List of terms to annotate \(See[Glossary](https://toolchain.gitbook.com/lexicon.html)\) \(**optional**\)   |
+| `GLOSSARY.md` | Lexicon / List of terms to annotate \(See[Glossary](https://toolchain.gitbook.com/lexicon.html)\) \(**optional**\) |
 
 ###### 1.
 
