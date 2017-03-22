@@ -1,4 +1,4 @@
 # Gitbook的使用文档
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+使用gitbook的编辑技术文档，能够同时满足导出pdf和html。
 
