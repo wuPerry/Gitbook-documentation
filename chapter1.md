@@ -17,7 +17,5 @@
 
 ###### 1.summary.md
 
-summary.md是book的目录，有三种形式，在点击“+Add an article”时会自动添加。
-
-
+  summary.md是book的目录，有三种形式，在点击“+Add an article”时会自动添加。
 
