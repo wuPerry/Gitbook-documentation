@@ -4,7 +4,9 @@
 
 ##### 1. Import样式/字体文件
 
-在编辑器
+在编辑器中点击选择“FILES”，打开book的文件。
 
 ![](/assets/import3.png)
+
+右击 
 
