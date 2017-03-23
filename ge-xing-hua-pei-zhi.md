@@ -10,7 +10,7 @@
 
 ![](/assets/import3.png)
 
-右击选择“Import file和“Import folder”分别导入style文件夹和book.json文件。
+右击选择“Import Files和“Import Folder”分别导入style文件夹和book.json文件。
 
 如下图：
 
