@@ -6,9 +6,13 @@
 
 在编辑器中点击选择“FILES”，打开book的文件。
 
+如下图
+
 ![](/assets/import3.png)
 
 右击选择“Import file和“Import folder”分别导入style文件夹和book.json文件。
 
-如下图
+如下图：
+
+![](/assets/import4.png)
 
