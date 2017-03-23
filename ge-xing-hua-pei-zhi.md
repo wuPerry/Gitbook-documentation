@@ -6,7 +6,7 @@
 
 在编辑器中点击选择“FILES”，打开book的文件。
 
-如下图
+如下图：
 
 ![](/assets/import3.png)
 
