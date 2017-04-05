@@ -16,5 +16,19 @@
 
 1. 申请 GitHub 账号
 
-    \*如果你没有 GitHub 账号,请点此去 GitHub 官网注册.
+   \*如果你没有 GitHub 账号,请点此去 GitHub 官网注册.
+
+2. 新建一个个人仓，如下图：
+
+* 如图所示,点击"+"号,选择"New repository"
+
+![](/assets/import8.png)
+
+
+
+   
+
+
+
+
 
