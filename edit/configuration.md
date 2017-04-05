@@ -4,5 +4,11 @@
 
 #### 在线配置
 
+在线编辑可以打开settings可以配置Title，description，topic等信息。勾选E-book选项可以在线导出pdf，mobi，epub。
+
+#### book.json配置
+
+
+
 
 
