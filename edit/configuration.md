@@ -26,7 +26,7 @@ gitbook的默认插件：
 
 配置插件：
 
-在技术文档的编辑中用到gitbook-plugin-image-captions插件，抓取内容中图片的`alt`或`title`属性，在图片下面显示标题。
+在技术文档的编辑中用到[gitbook-plugin-image-captions](https://plugins.gitbook.com/plugin/image-captions)插件，抓取内容中图片的`alt`或`title`属性，在图片下面显示标题。
 
 添加
 
