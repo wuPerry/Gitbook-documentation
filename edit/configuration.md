@@ -32,6 +32,9 @@ gitbook的默认插件：
     "image-captions"
 ]
 ```
+配置
+```
+```
 
 
 
