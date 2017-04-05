@@ -50,5 +50,7 @@ gitbook 在编译书籍的时候会读取书籍源码顶层目录中的`book.js`
 
 * \_PAGE\_IMAGE\_NUMBER\_：img在章节的序列
 
+* \_BOOK\_IMAGE\_NUMBER\_：
+
 
 
