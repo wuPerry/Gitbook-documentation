@@ -30,7 +30,7 @@ $ gitbook serve
 ```
 简历静态网站
 ```
-$ gitbook serve
+$ gitbook build
 ```
 
 
