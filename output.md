@@ -16,5 +16,7 @@
 
 1. 申请 GitHub 账号
 
-    \*如果你没有 GitHub 账号,请点此去 GitHub 官网注册.
+\*如果你没有 GitHub 账号,请点此去 GitHub 官网注册.
+
+
 
