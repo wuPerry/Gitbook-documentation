@@ -10,3 +10,9 @@
 
 gitbook 在编译书籍的时候会读取书籍源码顶层目录中的`book.js`或者`book.json`，这里以`book.json`为例，参考[gitbook 文档](https://toolchain.gitbook.com/config.html)可以知道。
 
+#### 三：插件
+
+
+
+
+
