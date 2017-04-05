@@ -24,8 +24,10 @@
 
    2.起一个名字,最好与你的 GitBook 电子书的名字一致,方便管理. 勾选"Initialize this repository with a README"  选项
 
-3. 注册一个[GitBook](https://www.gitbook.com/)账户,可以选择用你的 GitHub 账号登录   
-   1. 注册好或者使用 GitHub 登录你的 GitBook 账号之后,点击新建一本书.如图所示,点击那个蓝色的按钮 "+ New Book"![](/assets/import.png)
+3. 注册一个[GitBook](https://www.gitbook.com/)账户,可以选择用你的 GitHub 账号登录  
+    1.注册好或者使用 GitHub 登录你的 GitBook 账号之后,点击新建一本书.如图所示,点击那个蓝色的按钮 "+ New Book"![](/assets/import.png)
+
+         2. 
 
 
 
