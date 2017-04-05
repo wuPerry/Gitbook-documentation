@@ -24,5 +24,9 @@ gitbook的默认插件：
 
 \* livereload
 
+配置插件 
+
+
+
 
 
