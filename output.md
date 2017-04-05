@@ -14,15 +14,21 @@
 
 ###### ![](/assets/import6.png)2.本地编辑在线导出：
 
-* 申请 GitHub 账号
+1. 申请 GitHub 账号
 
-  \*如果你没有 GitHub 账号,请点此去 GitHub 官网注册.
+   \*如果你没有 GitHub 账号,请点此去 GitHub 官网注册.
 
-* 新建一个个人仓，如下图：
+2. 新建一个个人仓，如下图：
 
-  1.如图所示,点击"+"号,选择"New repository"                                                    ![](/assets/import8.png)
+   1.如图所示,点击"+"号,选择"New repository"                                                    ![](/assets/import8.png)
 
-  2.起一个名字,最好与你的 GitBook 电子书的名字一致,方便管理. 勾选"Initialize this repository with a README"  选项.
+   2.起一个名字,最好与你的 GitBook 电子书的名字一致,方便管理. 勾选"Initialize this repository with a README"  选项
+
+3. 注册一个[GitBook](https://www.gitbook.com/)账户,可以选择用你的 GitHub 账号登录 
+
+         
+
+
 
 
 
