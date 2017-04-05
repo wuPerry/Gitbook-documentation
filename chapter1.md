@@ -18,11 +18,7 @@ gitbook -V
 
 需要注意的是：用户首先需要安装 nodejs，以便能够使用 npm 来安装 gitbook。
 
-# Gitbook的使用
-
-##### 一. 注册好或者使用GitHub登录你的GitBook账号之后,点击新建一本书.如图所示,点击那个蓝色的按钮"+ New Book"
-
-![](/assets/import.png)
+#### 二：创建图书
 
 ##### 
 
