@@ -1,6 +1,6 @@
 {
   "author" : "TP-Link",
-  "description" : "smb技术性文档",
+  "description" : "TP-Link技术性文档",
   "links" : {
     "sidebar" : {
         "Home" : "http://localhost:4000/"
