@@ -21,22 +21,22 @@ gitbook -V
 #### 二：创建图书
 
 初始化gitbook图书
+
 ```
 $ gitbook init
 ```
+
 预览
+
 ```
 $ gitbook serve
 ```
+
 简历静态网站
+
 ```
 $ gitbook build
 ```
-
-
-
-
-
 
 
 
