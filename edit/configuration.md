@@ -26,18 +26,22 @@ gitbook的默认插件：
 
 配置插件：
 
-添加插件gitbook-plugin-image-captions
+在技术文档的编辑中用到gitbook-plugin-image-captions
+
+添加
+
 ```
 "plugins": [
     "image-captions"
 ]
 ```
+
 配置
+
 ```
 "image-captions": {
           "caption": "Figure _PAGE_LEVEL_ - _PAGE_IMAGE_NUMBER_  _CAPTION_"
       }
-
 ```
 
 
