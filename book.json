@@ -11,6 +11,7 @@
     "plugins": [
       "image-captions"
     ],
+    "pluginsConfig":{
       "theme-default": {
             "showLevel": true
       },
