@@ -28,7 +28,9 @@ gitbook的默认插件：
 
 添加插件gitbook-plugin-image-captions
 ```
-
+"plugins": [
+    "image-captions"
+]
 ```
 
 
