@@ -4,6 +4,8 @@
 
 2. 使用gitbook serve编译书籍
 
+## gitbook init {#gitbook-init}
+
 
 
 
