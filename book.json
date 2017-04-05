@@ -2,9 +2,8 @@
   "author" : "TP-Link",
   "description" : "TP-Link技术性文档",
   "links" : {
-    "sidebar" : {
-        "Home" : "http://localhost:4000/"
-     }
+    "sharing":{}
+    "sidebar" : {}
    },
     "styles":{
       "website": "style/css/main.css"
