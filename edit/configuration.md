@@ -12,7 +12,7 @@ gitbook 在编译书籍的时候会读取书籍源码顶层目录中的`book.js`
 
 #### 三：插件
 
-gitbook的默认插件：
+##### gitbook的默认插件：
 
 \* highlight
 
@@ -24,7 +24,7 @@ gitbook的默认插件：
 
 \* livereload
 
-配置插件：
+##### 配置插件：
 
 在技术文档的编辑中用到[gitbook-plugin-image-captions](https://plugins.gitbook.com/plugin/image-captions)插件，抓取内容中图片的`alt`或`title`属性，在图片下面显示标题。
 
