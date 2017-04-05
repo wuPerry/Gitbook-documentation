@@ -12,7 +12,17 @@ gitbook 在编译书籍的时候会读取书籍源码顶层目录中的`book.js`
 
 #### 三：插件
 
+gitbook的默认插件：
 
+\* highlight
+
+\* search
+
+\* sharing
+
+\* font-settings
+
+\* livereload
 
 
 
