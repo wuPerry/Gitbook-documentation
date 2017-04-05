@@ -27,7 +27,11 @@
 3. 注册一个[GitBook](https://www.gitbook.com/)账户,可以选择用你的 GitHub 账号登录  
    1. 注册好或者使用 GitHub 登录你的 GitBook 账号之后,点击新建一本书.如图所示,点击那个蓝色的按钮 "+ New  Book"![](/assets/import.png)  
    2. 在 Title 这一项就是你的书名,最好跟刚才的 Repository 名一样,便于管理.![](/assets/import9.png)
+
 4. 将你的电子书与 GitHub 上的 Repository 相互绑定
+   1. 完成之后,在这本书的 SETTINGS 页面,选择左侧的 GitHub , 把刚才在 GitHub 上创建的Repository 的地址复制进去.然后点击绿色按钮"Save".
+   ![](/assets/import10.png)
+   2. 
 
 
 
