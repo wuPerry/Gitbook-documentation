@@ -31,8 +31,9 @@
 4. 将你的电子书与 GitHub 上的 Repository 相互绑定  
    1. 完成之后,在这本书的 SETTINGS 页面,选择左侧的 GitHub , 把刚才在 GitHub 上创建的Repository 的地址复制进去.然后点击绿色按钮"Save".  
    ![](/assets/import10.png)  
-   2. 然后点击左侧倒数第二个选项"hooks"然后点绿色的按钮"+ Add Webhooks".
+   2. 然后点击左侧倒数第二个选项"hooks"然后点绿色的按钮"+ Add Webhooks".同样把 GitHub 里你新建的 Repository 地址复制到“Payload URL”。  
    ![](/assets/import11.png)
+   3. 点击"Add"webhook", 然后把书籍的地址复制的那个链接粘贴到“Payload URL”,其他不用管,点最下面的"Add webhook"
 
 
 
