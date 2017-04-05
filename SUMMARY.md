@@ -3,6 +3,6 @@
 * [简介](README.md)
   * [gitbook结构](gitbookjie-gou.md)
 * [安装](chapter1.md)
-* [编辑](bian-ji.md)
+* [使用](bian-ji.md)
 * [Import文件](ge-xing-hua-pei-zhi.md)
 
