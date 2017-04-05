@@ -24,3 +24,9 @@
 
 ![](/assets/import8.png)
 
+* 起一个名字,最好与你的 GitBook 电子书的名字一致,方便管理.
+
+"Initialize this repository with a README" 选项一定要勾选!
+
+
+
