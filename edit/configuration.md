@@ -34,6 +34,10 @@ gitbook的默认插件：
 ```
 配置
 ```
+"image-captions": {
+          "caption": "Figure _PAGE_LEVEL_ - _PAGE_IMAGE_NUMBER_  _CAPTION_"
+      }
+
 ```
 
 
