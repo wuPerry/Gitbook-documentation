@@ -5,7 +5,7 @@
 这里的安装只需要一步就能完成！
 
 ```
-$ npm install gitbook -g
+npm install -g gitbook-cli
 ```
 
 需要注意的是：用户首先需要安装 nodejs，以便能够使用 npm 来安装 gitbook。
