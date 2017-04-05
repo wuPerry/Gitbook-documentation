@@ -9,15 +9,8 @@
       "website": "style/css/main.css"
     },
     "plugins": [
-      "tbfed-pagefooter",
       "image-captions"
     ],
-    "pluginsConfig": {
-      "tbfed-pagefooter": {
-        "copyright":"Copyright &copy perry 2017",
-        "modify_label": "该文件修订时间：",
-        "modify_format": "YYYY-MM-DD HH:mm:ss"
-      },
       "theme-default": {
             "showLevel": true
       },
