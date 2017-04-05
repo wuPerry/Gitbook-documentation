@@ -20,7 +20,7 @@
 
 * 新建一个个人仓，如下图：
 
-  1.如图所示,点击"+"号,选择"New repository"![](/assets/import8.png)
+  1.如图所示,点击"+"号,选择"New repository"                                                    ![](/assets/import8.png)
 
   2.起一个名字,最好与你的 GitBook 电子书的名字一致,方便管理. "Initialize this repository with a README"  选项一定要勾选!
 
