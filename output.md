@@ -19,4 +19,5 @@
 ![](/assets/import11.png)  
  2. 每次编辑之后可以点击同步到在线版本。如下图：
  ![](/assets/import12.png)
+ 3. 打开在线版本即可导出pdf
 
