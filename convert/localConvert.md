@@ -17,5 +17,16 @@
    但是在实现过程中发现gitbook引用的配置路径为
    路径2：C:\Users\admin\.gitbook\versions\3.2.2\node_modules，所以如果正常步骤执行不成功的话把路径1
     node_modules下的文件全部拷贝到路径2的node_modules。
+ 3. 导出的命令
+   ```
+   # Generate a PDF file
+   $ gitbook pdf ./ ./mybook.pdf
+
+   # Generate an ePub file
+   $ gitbook epub ./ ./mybook.epub
+
+   # Generate a Mobi file
+   $ gitbook mobi ./ ./mybook.mobi
+   ```
 
 
