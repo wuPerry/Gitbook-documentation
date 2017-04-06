@@ -19,6 +19,9 @@
     node_modules下的文件全部拷贝到路径2的node_modules。
  3. 导出的命令
    ```
+   # html
+   $ gitbook serve
+   
    # Generate a PDF file
    $ gitbook pdf ./ ./mybook.pdf
 
