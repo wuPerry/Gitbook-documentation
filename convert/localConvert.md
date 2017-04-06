@@ -34,9 +34,11 @@
    $ gitbook mobi ./ ./mybook.mobi
    ```
 
-   * ###### html 
-   ![](/assets/import13.png)
+   * ###### html
+
+     ![](/assets/import13.png)
    * ###### pdf
+     ![](/assets/import14.png)
 
 
 
