@@ -18,8 +18,9 @@
       "image-captions": {
           "caption": "Figure _BOOK_IMAGE_NUMBER_  _CAPTION_"
       }
-    }
+    },
     "pdf":{
       "headerTemplate":"_TITLE_"
+      "footerTemplate": "_PAGENUM_"
     }
 }
