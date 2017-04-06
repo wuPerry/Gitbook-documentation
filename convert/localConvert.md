@@ -1,12 +1,11 @@
 # 本地导出
 
-1. 安装转换工具[Calibre application](https://calibre-ebook.com/download)，再执行
+1. ##### 安装转换工具[Calibre application](https://calibre-ebook.com/download)，再执行
 
    ```
    npm install calibre -g
    ```
-
-2. 安装引用的插件[gitbook-plugin-image-captions](https://plugins.gitbook.com/plugin/image-captions),添加新插件之间需要运行gitbook install来安装新的插件
+2. ##### 安装引用的插件[gitbook-plugin-image-captions](https://plugins.gitbook.com/plugin/image-captions),添加新插件之间需要运行gitbook install来安装新的插件
 
    ```
    gitbook install gitbook-plugin-image-captions
@@ -19,7 +18,7 @@
    路径2：C:\Users\admin.gitbook\versions\3.2.2\node\_modules，所以如果正常步骤执行不成功的话把路径1  
     node\_modules下的文件全部拷贝到路径2的node\_modules。
 
-3. 导出的命令
+3. ##### 导出的命令
 
    ```
    # html
@@ -35,10 +34,8 @@
    $ gitbook mobi ./ ./mybook.mobi
    ```
 
-   * html
-   ![](/assets/import13.png)
-
-   * pdf
+   * ###### html ![](/assets/import13.png)
+   * ###### pdf
 
 
 
