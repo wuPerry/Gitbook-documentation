@@ -30,6 +30,9 @@
 
    # Generate a Mobi file
    $ gitbook mobi ./ ./mybook.mobi
+   
    ```
+   *\ html
+   
 
 
