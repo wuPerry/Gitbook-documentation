@@ -11,17 +11,20 @@
    ```
    gitbook install gitbook-plugin-image-captions
    ```
-   *如果安装不成功可以直接下载插件放到gitbook的安装文件下，全局安装的路径一般为
-   路径1：C:\Users\admin\AppData\Roaming\npm\node_modules\gitbook\node_modules
-   
-   但是在实现过程中发现gitbook引用的配置路径为
-   路径2：C:\Users\admin\.gitbook\versions\3.2.2\node_modules，所以如果正常步骤执行不成功的话把路径1
-    node_modules下的文件全部拷贝到路径2的node_modules。
+
+   \*如果安装不成功可以直接下载插件放到gitbook的安装文件下，全局安装的路径一般为  
+   路径1：C:\Users\admin\AppData\Roaming\npm\node\_modules\gitbook\node\_modules
+
+   但是在实现过程中发现gitbook引用的配置路径为  
+   路径2：C:\Users\admin.gitbook\versions\3.2.2\node\_modules，所以如果正常步骤执行不成功的话把路径1  
+    node\_modules下的文件全部拷贝到路径2的node\_modules。
+
 3. 导出的命令
+
    ```
    # html
    $ gitbook serve
-   
+
    # Generate a PDF file
    $ gitbook pdf ./ ./mybook.pdf
 
@@ -30,9 +33,9 @@
 
    # Generate a Mobi file
    $ gitbook mobi ./ ./mybook.mobi
-   
    ```
-   *\ html
-   
+
+   1. html
+
 
 
