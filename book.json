@@ -20,7 +20,7 @@
       }
     },
     "pdf":{
-      "headerTemplate":"_TITLE_"
+      "headerTemplate":"_TITLE_",
       "footerTemplate": "_PAGENUM_"
     }
 }
