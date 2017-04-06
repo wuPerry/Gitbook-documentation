@@ -35,9 +35,12 @@
    ```
 
    * ###### html
+   在执行生成html命令后，会在书籍文件里边生成一个_book的文件夹。
 
      ![](/assets/import13.png)
+
    * ###### pdf
+   在执行生成pdf命令后，会默认生成book.pdf的文件。路径和pdf文档可以自己定义。
      ![](/assets/import14.png)
 
 
