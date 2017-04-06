@@ -35,8 +35,8 @@
    $ gitbook mobi ./ ./mybook.mobi
    ```
 
-   * html
-   * pdf
+   */ html
+   */ pdf
 
 
 
