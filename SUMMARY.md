@@ -11,4 +11,5 @@
   * [在线导出](convert/onlineConvert.md)
   * [本地导出](convert/localConvert.md)
 * [案例](example.md)
+  * [本地安装](example/example.md)
 
