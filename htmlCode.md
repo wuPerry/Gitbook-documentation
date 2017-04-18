@@ -22,7 +22,22 @@
 ##### 二:表格
 
 ~~~
-<table class=""></table>
+<table class="tpTable">
+  <thead>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </head>
+  <tbody>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 ~~~
 
 
