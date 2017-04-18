@@ -55,10 +55,10 @@ body h4{font-size:14px;line-height:15px;}
 .tpTable_1 td:first-child{border-left:none;}
 .tpTable_1 td:last-child{border-right:none;}
 /*tpTable_2*/
-.tpTable_1{border-collapse:collapse;}
-.tpTable_1 td,.tpTable_1 th{border:none;}
-.tpTable_1 th{ background-color:#d9f7f4;}
-.tpTable_1 th:not(":last-child"){border-right:1px solid #fff;}
+.tpTable_2{border-collapse:collapse;}
+.tpTable_2 td,.tpTable_2 th{border:none;}
+.tpTable_2 th{ background-color:#d9f7f4;}
+.tpTable_2 th:not(":last-child"){border-right:1px solid #fff;}
 
 
 
