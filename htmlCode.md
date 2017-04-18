@@ -20,7 +20,37 @@
 </ul>
 
 ##### 二:表格
+a.表格1
+~~~
+<table class="tpTable">
+  <tbody>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    ...
+  </tbody>
+</table>
+~~~
+如下：
+<table class="tpTable_1">
+  <tbody>
+    <tr>
+      <td>Bold Font</td>
+      <td>An unalterable keyword.For example: show logging</td>
+    </tr>
+    <tr>
+      <td>Normal Font</td>
+      <td>A constant (several options are enumerated and only one can be selected).</td>
+    </tr>
+    <tr>
+      <td>{}</td>
+      <td>Items in braces { } are required.</td>
+    </tr>
+  </tbody>
+</table>
 
+a.表格1
 ~~~
 <table class="tpTable">
   <tbody>
