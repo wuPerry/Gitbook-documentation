@@ -63,7 +63,7 @@ b.表格2
 </table>
 ~~~
 如下：
-<table class="tpTable_1">
+<table class="tpTable_2">
   <tbody>
     <tr>
       <td>Bold Font</td>
