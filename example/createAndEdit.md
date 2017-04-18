@@ -6,7 +6,9 @@ gitbook的链接如下：
 
 [https://www.gitbook.com/](https://www.gitbook.com/)
 
-##### 步骤二：
+##### 步骤二：下载编辑器
+
+
 
 
 
