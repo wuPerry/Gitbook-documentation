@@ -23,36 +23,29 @@
 
 ~~~
 <table class="tpTable">
-  <thead>
-    <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-  </head>
   <tbody>
     <tr>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
+    ...
   </tbody>
 </table>
 ~~~
 如下：
 <table class="tpTable_1">
-  <thead>
-    <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-  </head>
   <tbody>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Bold Font</td>
+      <td>An unalterable keyword.For example: show logging</td>
+    </tr>
+    <tr>
+      <td>Normal Font</td>
+      <td>A constant (several options are enumerated and only one can be selected).</td>
+    </tr>
+    <tr>
+      <td>{}</td>
+      <td>Items in braces { } are required.</td>
     </tr>
   </tbody>
 </table>
