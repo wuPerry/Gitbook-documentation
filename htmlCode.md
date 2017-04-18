@@ -50,7 +50,7 @@ a.表格1
   </tbody>
 </table>
 
-a.表格1
+b.表格2
 ~~~
 <table class="tpTable">
   <tbody>
