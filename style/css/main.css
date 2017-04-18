@@ -54,6 +54,10 @@ body h4{font-size:14px;line-height:15px;}
 .tpTable_1{border-collapse:collapse;}
 .tpTable_1 td:first-child{border-left:none;}
 .tpTable_1 td:last-child{border-right:none;}
+/*tpTable_2*/
+.tpTable_1{border-collapse:collapse;}
+.tpTable_1 td:first-child{border-left:none;}
+.tpTable_1 td:last-child{border-right:none;}
 
 
 
