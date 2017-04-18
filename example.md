@@ -10,6 +10,8 @@
 
 ##### 步骤二：安装gitbook
 
+安装
+
 ```
 npm install -g gitbook-cli
 ```
