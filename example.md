@@ -40,9 +40,5 @@ gitbook install gitbook-plugin-image-captions
 路径2：C:\Users\admin.gitbook\versions\3.2.2\node\_modules，所以如果正常步骤执行不成功的话把路径1  
 node\_modules下的文件全部拷贝到路径2的node\_modules
 
-### 创建书籍与编辑
-
-
-
 
 
