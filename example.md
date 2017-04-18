@@ -19,6 +19,9 @@ npm install -g gitbook-cli
 ![](/assets/import15.png)
 
 检查安装：
+~~~
+gitbook -V
+~~~
 
 
 
