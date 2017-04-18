@@ -41,8 +41,30 @@ body h4{font-size:14px;line-height:15px;}
 .book-summary ul.summary >li:last-child{display:none;}
 /*stepNumber*/
 .stepNumber li{list-style-type:none;position:relative;}
-.stepNumber li:before{content"1)";display:block;position:absolute;top:0;left:-15px;}
-.stepNumber li:nth-child(1){}
+.stepNumber li:before{content:"1)";display:block;position:absolute;top:0;left:-20px;}
+.stepNumber li:nth-child(2){content:"2)";}
+.stepNumber li:nth-child(3){content:"3)";}
+.stepNumber li:nth-child(4){content:"4)";}
+.stepNumber li:nth-child(5){content:"5)";}
+.stepNumber li:nth-child(6){content:"6)";}
+.stepNumber li:nth-child(7){content:"7)";}
+.stepNumber li:nth-child(8){content:"8)";}
+.stepNumber li:nth-child(9){content:"9)";}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
