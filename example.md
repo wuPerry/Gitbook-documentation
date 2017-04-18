@@ -10,11 +10,15 @@
 
 ##### 步骤二：安装gitbook
 
-安装
+打开运行,输入以下命令：
 
 ```
 npm install -g gitbook-cli
 ```
+
+![](/assets/import15.png)
+
+检查安装：
 
 
 
