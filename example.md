@@ -19,9 +19,12 @@ npm install -g gitbook-cli
 ![](/assets/import15.png)
 
 检查安装：
-~~~
+
+在运行窗口输入以下命令检查gitbook是否安装成功
+
+```
 gitbook -V
-~~~
+```
 
 
 
