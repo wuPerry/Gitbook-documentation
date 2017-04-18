@@ -50,7 +50,10 @@ body h4{font-size:14px;line-height:15px;}
 .stepNumber li:nth-child(7):before{content:"7)";}
 .stepNumber li:nth-child(8):before{content:"8)";}
 .stepNumber li:nth-child(9):before{content:"9)";}
-
+/*tpTable_1*/
+.tpTable_1{border-collapse:collapse;}
+.tpTable_1 td:first-child{border-left:none;}
+.tpTable_1 td:last-child{border-right:none;}
 
 
 
