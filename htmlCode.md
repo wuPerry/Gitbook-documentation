@@ -53,10 +53,18 @@ a.表格1
 b.表格2
 ~~~
 <table class="tpTable_2">
+  <thead>
+    <tr>
+      <td>Method</td>
+      <td>Using Port</td>
+      <td>Typical Applications</td>
+    </tr>
+  </thead>
   <tbody>
     <tr>
-      <td></td>
-      <td></td>
+      <td>Console</td>
+      <td>Console port (connected directly)</td>
+      <td>Hyper Terminal</td>
     </tr>
     ...
   </tbody>
@@ -64,18 +72,18 @@ b.表格2
 ~~~
 如下：
 <table class="tpTable_2">
+  <thead>
+    <tr>
+      <td>Method</td>
+      <td>Using Port</td>
+      <td>Typical Applications</td>
+    </tr>
+  </thead>
   <tbody>
     <tr>
-      <td>Bold Font</td>
-      <td>An unalterable keyword.For example: show logging</td>
-    </tr>
-    <tr>
-      <td>Normal Font</td>
-      <td>A constant (several options are enumerated and only one can be selected).</td>
-    </tr>
-    <tr>
-      <td>{}</td>
-      <td>Items in braces { } are required.</td>
+      <td>Console</td>
+      <td>Console port (connected directly)</td>
+      <td>Hyper Terminal</td>
     </tr>
   </tbody>
 </table>
