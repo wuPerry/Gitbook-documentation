@@ -39,6 +39,8 @@ body h4{font-size:14px;line-height:15px;}
 .book-summary ul.summary{font-size:14px;}
 .square li{list-style-type:square;}
 .book-summary ul.summary >li:last-child{display:none;}
+/*stepNumber*/
+.stepNumber li{list-style-type:none;}
 
 
 
