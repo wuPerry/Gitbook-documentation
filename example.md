@@ -11,7 +11,7 @@
 ##### 步骤二：安装gitbook
 
 ```
-asasdadasd
+npm install -g gitbook-cli
 ```
 
 
