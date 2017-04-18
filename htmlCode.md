@@ -20,7 +20,7 @@
 </ul>
 
 ##### 二:表格
-a.表格1
+######a.表格1
 ~~~
 <table class="tpTable_1">
   <tbody>
@@ -50,14 +50,14 @@ a.表格1
   </tbody>
 </table>
 
-b.表格2
+######b.表格2
 ~~~
 <table class="tpTable_2">
   <thead>
     <tr>
-      <td>Method</td>
-      <td>Using Port</td>
-      <td>Typical Applications</td>
+      <th>Method</th>
+      <th>Using Port</th>
+      <th>Typical Applications</th>
     </tr>
   </thead>
   <tbody>
@@ -74,9 +74,9 @@ b.表格2
 <table class="tpTable_2">
   <thead>
     <tr>
-      <td>Method</td>
-      <td>Using Port</td>
-      <td>Typical Applications</td>
+      <th>Method</th>
+      <th>Using Port</th>
+      <th>Typical Applications</th>
     </tr>
   </thead>
   <tbody>
