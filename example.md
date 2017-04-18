@@ -26,5 +26,9 @@ npm install -g gitbook-cli
 gitbook -V
 ```
 
+##### 步骤三：安装gitbook的相关插件 
+
+
+
 
 
