@@ -18,9 +18,7 @@ a.在网页上点击蓝色按钮“New Book”创建书籍：
 
 ![](/assets/import.png)
 
-b.填写书本信息
+b.选择“Book & Manual”填写书本信息
 
-
-
-
+![](/assets/import17.png)
 
