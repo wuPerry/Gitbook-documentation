@@ -22,7 +22,7 @@
 ##### 二:表格
 a.表格1
 ~~~
-<table class="tpTable">
+<table class="tpTable_1">
   <tbody>
     <tr>
       <td></td>
@@ -52,7 +52,7 @@ a.表格1
 
 b.表格2
 ~~~
-<table class="tpTable">
+<table class="tpTable_2">
   <tbody>
     <tr>
       <td></td>
