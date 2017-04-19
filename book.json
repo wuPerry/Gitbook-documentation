@@ -14,9 +14,7 @@
     "pluginsConfig":{
       "theme-default": {
             "showLevel": true,
-           "styles":{
-              "website":"styles/css/website.css",
-              "pdf":"styles/css/website.css"
+           "styles":{"website":"styles/css/website.css","pdf":"styles/css/website.css"
               }
       },
       "image-captions": {
