@@ -13,4 +13,5 @@
 * [案例](example/README.md)
   * [本地安装](example/example.md)
   * [创建与编辑](example/createAndEdit.md)
+  * [导出pdf和html](example/convertFiles.md)
 
