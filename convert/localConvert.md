@@ -34,6 +34,8 @@
    $ gitbook mobi ./ ./mybook.mobi
    ```
 
+   ###### 
+
    * ###### html
 
      在执行生成html命令后，会在书籍文件里边生成一个\_book的文件夹。
