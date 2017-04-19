@@ -49,7 +49,7 @@
    * ###### pdf
 
      ```
-     $ gitbook pdf gitbook-documentation  book.pdf
+     $ gitbook pdf gitbook-documentation  gitbook-documentation.pdf
      # gitbook-documentation是书籍文件；book.pdf是导出后的pdf文件，可以自己命名和定义路径
      ```
 
