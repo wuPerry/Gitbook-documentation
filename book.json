@@ -6,7 +6,7 @@
     "sidebar" : {}
    },
     "styles":{
-      "website": "style/css/main.css"
+      
     },
     "plugins": [
       "image-captions"
