@@ -6,7 +6,7 @@
 
 \*导出的文件的选项默认是不显示的，要在设置"settings"里边勾选。
 
-
+![](/assets/import18.png)
 
 ###### ![](/assets/import6.png)2.本地编辑在线导出：
 
