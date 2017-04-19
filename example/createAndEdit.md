@@ -30,7 +30,9 @@ gitbook的编辑器链接如下：
 
 点击编辑器左上角的“Gitbook Edit”，然后选择“Change Library Path”修改自己要保存到本地的路径。
 
-###### b.
+###### b.点击新建的书籍编辑
+
+![](/assets/import16.png)
 
 
 
