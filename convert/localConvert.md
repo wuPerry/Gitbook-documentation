@@ -51,7 +51,7 @@
      $ gitbook pdf gitbook-documentation  book.pdf
      # gitbook-documentation是书籍文件；book.pdf是导出后的pdf文件名，可以自己命名和定义路径
      ~~~
-     在执行生成pdf命令后，会默认生成book.pdf的文件。路径和pdf文档可以自己定义。
+     在执行生成pdf命令后，会默认生成book.pdf的文件。
 
      ![](/assets/import14.png)
 
