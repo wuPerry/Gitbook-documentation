@@ -16,7 +16,7 @@
             "showLevel": true,
            "styles":{
               "website":"styles/css/website.css",
-              "pdf":""styles/css/pdf.css"
+              "pdf":"styles/css/pdf.css"
               }
       },
       "image-captions": {
