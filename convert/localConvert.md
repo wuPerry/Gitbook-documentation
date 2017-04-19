@@ -38,7 +38,7 @@
      1. 一.“win+R”输入cmd打开cmd命令窗口  
       ![](/assets/import19.png)  
      2. 二.在命令窗口输入“cd G:\gitbooks\wuperry”，回车再输入"g:"就会切换到G:\gitbooks\wuperry的目录下。  
-   ![](/assets/import20.png)
+     ![](/assets/import20.png)
 
    * ###### html
 
