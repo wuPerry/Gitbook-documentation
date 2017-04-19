@@ -41,7 +41,7 @@
    2. 在命令窗口输入“cd G:\gitbooks\wuperry”，回车再输入"g:"就会切换到G:\gitbooks\wuperry的目录下。  
      ![](/assets/import20.png)
    方式二：
-
+    打开文件路径，按"shift+鼠标右键",点击“在此处打开命令窗口”即可。
    * ###### html
 
      在执行生成html命令后，会在书籍文件里边生成一个\_book的文件夹。
