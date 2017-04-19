@@ -23,6 +23,7 @@
     },
     "pdf":{
       "headerTemplate":"_TITLE_",
-      "footerTemplate": "_PAGENUM_"
+      "footerTemplate": "_PAGENUM_",
+      "fontFamily":"AktivGrotesk-Light,Arial"
     }
 }
