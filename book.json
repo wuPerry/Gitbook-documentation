@@ -6,14 +6,18 @@
     "sidebar" : {}
    },
     "styles":{
-      
+      "website":"styles/website"
     },
     "plugins": [
       "image-captions"
     ],
     "pluginsConfig":{
       "theme-default": {
-            "showLevel": true
+            "showLevel": true,
+           "styles":{
+              "website":"styles/css/website.css",
+              "pdf":""styles/css/pdf.css"
+              }
       },
       "image-captions": {
           "caption": "Figure _BOOK_IMAGE_NUMBER_  _CAPTION_"
