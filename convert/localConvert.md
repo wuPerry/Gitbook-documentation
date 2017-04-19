@@ -34,8 +34,9 @@
    $ gitbook mobi ./ ./mybook.mobi
    ```
 
-   为了方便，先将目录切换到书籍的目录。步骤如下：
+   为了方便，先将目录切换到书籍的目录。步骤如下：  
    “win+R”输入cmd打开cmd命令窗口
+   ![](/assets/import19.png)
 
    * ###### html
 
@@ -48,7 +49,6 @@
      在执行生成pdf命令后，会默认生成book.pdf的文件。路径和pdf文档可以自己定义。
 
      ![](/assets/import14.png)
-     
 
 
 
