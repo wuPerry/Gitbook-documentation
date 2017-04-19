@@ -45,12 +45,14 @@
      在执行生成html命令后，会在书籍文件里边生成一个\_book的文件夹。
 
      ![](/assets/import13.png)
- 
+
    * ###### pdf
-     ~~~
+
+     ```
      $ gitbook pdf gitbook-documentation  book.pdf
-     # gitbook-documentation是书籍文件；book.pdf是导出后的pdf文件名，可以自己命名和定义路径
-     ~~~
+     # gitbook-documentation是书籍文件；book.pdf是导出后的pdf文件，可以自己命名和定义路径
+     ```
+
      在执行生成pdf命令后，会默认生成book.pdf的文件。
 
      ![](/assets/import14.png)
