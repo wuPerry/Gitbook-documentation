@@ -5,9 +5,9 @@
     "sharing":{},
     "sidebar" : {}
    },
-    "styles":{
-      "website":"styles/website"
-    },
+   "page":{
+     "title":{"level":"1","next":{"level":"2"}
+   },
     "plugins": [
       "image-captions"
     ],
