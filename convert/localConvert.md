@@ -40,6 +40,7 @@
       ![](/assets/import19.png)  
    2. 在命令窗口输入“cd G:\gitbooks\wuperry”，回车再输入"g:"就会切换到G:\gitbooks\wuperry的目录下。  
      ![](/assets/import20.png)
+   方式二：
 
    * ###### html
 
