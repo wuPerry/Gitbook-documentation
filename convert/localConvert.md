@@ -40,15 +40,13 @@
    二.在命令窗口输入“cd G:\gitbooks\wuperry”，回车再输入"g:"就会切换到G:\gitbooks\wuperry的目录下。  
    ![](/assets/import20.png)
 
-4. ###### html
+* ###### html
 
    在执行生成html命令后，会在书籍文件里边生成一个\_book的文件夹。
 
    ![](/assets/import13.png)
-
-5. ![](/assets/import13.png)
-
-6. ###### pdf
+ 
+* ###### pdf
 
    在执行生成pdf命令后，会默认生成book.pdf的文件。路径和pdf文档可以自己定义。
 
