@@ -47,7 +47,9 @@
      ![](/assets/import13.png)
  
    * ###### pdf
-
+     ~~~
+     $ gitbook pdf gitbook-documentation  book.pdf
+     ~~~
      在执行生成pdf命令后，会默认生成book.pdf的文件。路径和pdf文档可以自己定义。
 
      ![](/assets/import14.png)
