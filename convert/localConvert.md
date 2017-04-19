@@ -34,7 +34,8 @@
    $ gitbook mobi ./ ./mybook.mobi
    ```
 
-   为了方便，先将目录切换到书籍的目录。步骤如下\(我的书籍路径 G:\gitbooks\wuperry\)：  
+   为了方便，先将目录切换到书籍的目录。步骤如下\(我的书籍路径 G:\gitbooks\wuperry\)：
+   方式一：  
    1. “win+R”输入cmd打开cmd命令窗口  
       ![](/assets/import19.png)  
    2. 在命令窗口输入“cd G:\gitbooks\wuperry”，回车再输入"g:"就会切换到G:\gitbooks\wuperry的目录下。  
