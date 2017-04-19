@@ -50,7 +50,7 @@
 
      ```
      $ gitbook pdf gitbook-documentation  gitbook-documentation.pdf
-     # gitbook-documentation是书籍文件；book.pdf是导出后的pdf文件，可以自己命名和定义路径
+     # gitbook-documentation是书籍文件；gitbook-documentation.pdf是导出后的pdf文件，可以自己命名和定义路径
      ```
 
      在执行生成pdf命令后，会默认生成book.pdf的文件。
