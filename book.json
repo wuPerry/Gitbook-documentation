@@ -12,6 +12,7 @@
       "theme-default": {
             "showLevel": true,
             "styles":{"website":"styles/css/main.css"
+                      "pdf":"styles/css/main.css"
               }
       },
       "image-captions": {
