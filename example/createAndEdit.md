@@ -16,11 +16,11 @@ gitbook的编辑器链接如下：
 
 ###### a.在网页上点击蓝色按钮“New Book”创建书籍：
 
-![](/assets/import.png)
+![createBook](/assets/import.png)
 
 ###### b.选择“Book & Manual”并填写书本信息
 
-![](/assets/import17.png)
+![manual](/assets/import17.png)
 
 ##### 步骤四：编辑
 
@@ -32,7 +32,7 @@ gitbook的编辑器链接如下：
 
 ###### b.点击新建的书籍编辑
 
-![](/assets/import16.png)
+![editLocal](/assets/import16.png)
 
 \*这时，在保存书本的路径下会出现一个与自己gitbook账号同名的文件夹，并且在该文件夹有新建书籍的文件夹。
 
