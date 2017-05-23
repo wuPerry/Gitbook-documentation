@@ -8,11 +8,11 @@
 
 如下图：
 
-![](/assets/import3.png)
+![files](/assets/import3.png)
 
 右击选择“Import Files和“Import Folder”分别导入style文件夹和book.json文件。
 
 如下图：
 
-![](/assets/import4.png)
+![folder](/assets/import4.png)
 
