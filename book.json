@@ -16,7 +16,8 @@
               }
       },
       "image-captions": {
-          "caption": "Image - _CAPTION_"
+          "caption": "Image - _BOOK_IMAGE_NUMBER_",
+          "align": "left"
       }
     },
     "pdf":{
