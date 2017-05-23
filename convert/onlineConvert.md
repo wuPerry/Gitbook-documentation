@@ -10,12 +10,10 @@
 
 ![downloadpdf](/assets/import6.png)
 ###### 2.本地编辑在线导出：
-
-
 1. 为了方便在线同步,先在线建立书籍，然后在本地用gitbook edit编辑。点击相应的书籍即可下载到本地，如下图：
 
 ![edit](/assets/import11.png)  
- 2. 每次编辑之后可以点击同步到在线版本。如下图：  
+2. 每次编辑之后可以点击同步到在线版本。如下图：  
  ![sync](/assets/import12.png)  
- 3. 打开在线版本即可导出pdf
+3. 打开在线版本即可导出pdf
 
